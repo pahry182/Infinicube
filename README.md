@@ -1,4 +1,4 @@
 # Infinicube
-Endless 2D Shooter Platformer
-(This repo accidentally git rm -f -ed)
+Endless 2D Shooter Platformer<br />
+(This repo accidentally git rm -f -ed)<br />
 If you found this repo, you can play it here: https://pahry182.itch.io/infinicube
